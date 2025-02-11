@@ -1,0 +1,4 @@
+text+5004hello.00
+234.10and0.05
+ab+0.19++1.01
+example 123 and 0.56 test
